@@ -1,3 +1,3 @@
 # Add message about Git
-Message = " Git is awesome!"
+Message = "Git is awesome!"
 print (Message)
