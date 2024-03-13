@@ -1,2 +1,2 @@
-Message = " Hello World!"
+Message = " Git is awesome!"
 print (Message)
